@@ -6,9 +6,9 @@ package game;
  * RockPaperScissors game , identity and some default supported behaviour like
  * Score =0
  * 
- * @author Ahmed Gamal
+ * @author Osama ElGebaly
  * @version 1.0
- * @since 2016-8-4
+ * @since 2018-02-08
  */
 
 public abstract class Player {

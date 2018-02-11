@@ -5,9 +5,9 @@ package game.utils;
  * UIutils contains layout utils to use the console in smart way to print
  * results in good way
  * 
- * @author Ahmed Gamal
+ * @author Osama ElGebaly
  * @version 1.0
- * @since 2016-8-4
+ *
  */
 public class UIutils {
 	public static void printDashes(int numberOfDashes) {

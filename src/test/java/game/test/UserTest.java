@@ -7,7 +7,7 @@ import game.User;
 import org.junit.Test;
 
 /**
- * @author Ahmed Gamal
+ * @author Osama ElGebalz
  *
  */
 public class UserTest {

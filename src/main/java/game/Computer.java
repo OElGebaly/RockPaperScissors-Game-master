@@ -7,9 +7,9 @@ import java.util.Random;
  * this class used to simulate another player to play with the user , this
  * player make random moves from {@code Move.java}
  * 
- * @author Ahmed Gamal
+ * @author Osama ElGebaly
  * @version 1.0
- * @since 2016-8-4
+ * @since 2018-02-08
  */
 public class Computer extends Player {
 

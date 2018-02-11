@@ -4,9 +4,9 @@ package game;
  * 
  * Move Enum define the available player moves in the RockPaperScissors game
  * 
- * @author Ahmed Gamal
+ * @author Osama ElGebaly
  * @version 1.0
- * @since 2016-8-4
+ * @since 2018-02-08
  */
 public enum Move {
 	ROCK, PAPER, SCISSORS;

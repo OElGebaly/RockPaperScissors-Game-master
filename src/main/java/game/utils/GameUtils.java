@@ -7,9 +7,9 @@ import java.util.Scanner;
  * UIutils contains the game application most common functions to use the
  * console in smart way to print results in good way
  * 
- * @author Ahmed Gamal
+ * @author Osama ElGebaly
  * @version 1.0
- * @since 2016-8-4
+ * 
  */
 public class GameUtils {
 

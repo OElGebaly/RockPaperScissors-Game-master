@@ -15,7 +15,7 @@ import game.utils.GameUtils;
  * 
  * SCISSORS beats PAPER ,PAPER beats ROCK.
  *
- * @author Ahmed Gamal
+ * @author Osama ElGebaly
  * @version 1.0
  */
 public class RockPaperScissors {
