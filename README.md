@@ -9,7 +9,7 @@
      $ java -jar target/RockPaperScissors-with-dependencies
 
 
-##Design
+## Design
 <code>game.run.GameUtils</code> contains utils functions in the application.
 <br/>
 <code>game.run.RockPaperScissors</code>management class to run and start the game.
@@ -28,7 +28,10 @@
 ![enter image description here](https://github.com/OElGebaly/RockPaperScissors-Game-master/blob/master/images/graph4.png)
 
 
+##  Functional Testing
 
-##Documentation
+![enter image description here](https://github.com/OElGebaly/RockPaperScissors-Game-master/blob/master/images/Screenshot%20from%202018-02-11%2019-04-47.png)
 
-<code>RockPaperScissors-Game.doc</code>
+## Code Metrics
+
+![enter image description here](https://github.com/OElGebaly/RockPaperScissors-Game-master/blob/master/images/Screenshot%20from%202018-02-11%2019-04-47.png)
