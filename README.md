@@ -18,6 +18,12 @@
 
 ![enter image description here](https://s31.postimg.org/oevvoshqz/design.png)
 
+https://github.com/OElGebaly/RockPaperScissors-Game-master/blob/master/images/graph1.jpg
+https://github.com/OElGebaly/RockPaperScissors-Game-master/blob/master/images/graph2.png
+https://github.com/OElGebaly/RockPaperScissors-Game-master/blob/master/images/graph-3.png
+https://github.com/OElGebaly/RockPaperScissors-Game-master/blob/master/images/graph4.png
+
+
 
 ##Documentation
 
